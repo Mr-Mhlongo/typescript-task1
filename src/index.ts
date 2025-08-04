@@ -17,7 +17,7 @@
      Department: ${employee.department}
      Skills: ${employee.skills}
      Active: ${employee.isActive}
-     ------------------------`;
+     -------------------------`;
     
  }
 
